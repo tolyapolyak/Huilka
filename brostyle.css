@@ -11,12 +11,11 @@ body {
 p {
     margin-bottom: 12px
 }
-.important {
-    font-weight:400 
-}
+
 h1 {
     font-size: 36px;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    font-weight:400;
 
 }
 
@@ -24,12 +23,13 @@ h2 {
     font-size: 32px;
     margin-bottom: 8px;
     border-bottom: 1px solid gray;
-
+    font-weight:400;
 }
 
 h3 {
     font-size:20px;
     margin-bottom: 0px;
+    font-weight:400;
 
 
 }
@@ -64,4 +64,3 @@ h3 {
     font-style: italic;
     margin-bottom: -10px;
 }
-
